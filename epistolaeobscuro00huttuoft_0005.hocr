@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolaeobscuro00huttuoft_0005.png"; bbox 0 0 2034 3679; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 256 1518 1573 1719">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 256 1518 1573 1719">
+     <span class='ocr_line' id='line_1_1' title="bbox 256 1518 1573 1581; baseline 0.005 -6"><span class='ocrx_word' id='word_1_1' title='bbox 256 1518 801 1578; x_wconf 79' lang='lat' dir='ltr'><strong>EPISTOLAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 880 1520 1573 1581; x_wconf 88' lang='lat' dir='ltr'>OBSCURORUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 677 1658 1150 1719; baseline 0.006 -3"><span class='ocrx_word' id='word_1_3' title='bbox 677 1658 1150 1719; x_wconf 87' lang='lat' dir='ltr'><strong>VIRORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 933 1839 943 1872">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 933 1839 943 1872">
+     <span class='ocr_line' id='line_1_3' title="bbox 933 1839 943 1872; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 933 1839 943 1872; x_wconf 67' lang='grc' dir='ltr'>ἰ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
